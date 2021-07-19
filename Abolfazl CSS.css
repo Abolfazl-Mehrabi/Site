@@ -1,0 +1,52 @@
+*{
+    background-color: aqua;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+}
+.first-line {
+    background-color: black;
+}
+
+.first-ul {
+    font-size: large;
+}
+
+.COD-link {
+    color: black;
+    text-decoration: none;
+}
+
+.CSGO-link {
+    text-decoration: none;
+    color: black;
+}
+
+.GTA-link {
+    color: black;
+    text-decoration: none;
+}
+
+.second-line {
+    background-color: black;
+}
+
+.Tel {
+    color: black;
+    text-decoration: none;
+}
+
+.WhatsApp {
+    text-decoration: none;
+    color: black;
+}
+
+.third-line {
+    background-color: black;
+}
+
+.AT {
+    border: black 1px solid;
+}
