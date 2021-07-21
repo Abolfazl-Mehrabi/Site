@@ -1,52 +1,86 @@
 *{
-    background-color: aqua;
+    background-color: #0A1931;
+}
+
+.Name-Pic{
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .icon {
-    height: 100px;
-    width: 100px;
-}
-.first-line {
-    background-color: black;
+    height: 150px;
+    width: 150px;
 }
 
-.first-ul {
+h1 {
+    color: #FFC947;
+}
+
+h2,h3,h4 {
+    text-align: center;
+    color: #185ADB;
+}
+
+p {
+    text-align: center ;
+    color: #FEDDBE;
+}
+
+li {
+    text-decoration: none;
+    color: #FEDDBE;
+}
+
+
+td,th {
+    text-decoration: none;
+    color: #FEDDBE;
+}
+hr {
+    width: 5%;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    size: 0ch;
+    border-top: 4px dotted #FFC947;
+}
+
+.Hobbies {
     font-size: large;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .COD-link {
-    color: black;
+    color: #FEDDBE;
     text-decoration: none;
 }
 
 .CSGO-link {
     text-decoration: none;
-    color: black;
+    color: #FEDDBE;
 }
 
 .GTA-link {
-    color: black;
+    color: #FEDDBE;
     text-decoration: none;
 }
 
-.second-line {
-    background-color: black;
-}
-
-.Tel {
-    color: black;
+a {
+    color: #FEDDBE;
     text-decoration: none;
 }
 
-.WhatsApp {
-    text-decoration: none;
-    color: black;
+.AbilitiesTable {
+    font-size: large;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-.third-line {
-    background-color: black;
-}
-
-.AT {
-    border: black 1px solid;
+.contactMe-table {
+    text-align: center;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
 }
