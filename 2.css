@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    font-size: 80px;
+    position: relative;
+    top: -385px;
+    margin-top: 527px;
+}
+
+h2 , h3 {
+    margin: 0px 30px 30px 0px;
+    font-family: 'Bangers', cursive;
+    position: relative;
+    top: -10px;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 22px;
+}
+
+a {
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    text-decoration: none;
+}
+
+
+.titlep {
+    font-family: 'Bangers', cursive;
+    font-size: 2.4rem;
+    position: relative;
+    top: -400px;
+    margin: 0px;
+
+}
+
+.skill-row {
+    text-align: left;
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+/* -----------------------------------------------------Images--------------------------------------------------------------------- */
+.img1 {
+    margin-top: 15px;
+    width: 200px;
+    height:200px;
+}
+
+.img2 {
+    margin:0px 30px 0px 0px;
+    float: left;
+    width: 20%;
+}
+
+.img3 {
+    margin-left: 30px;
+    float: right;
+    width: 20%;
+}
+/* ------------------------------------------------------Containers----------------------------------------------------------------- */
+.top-container {
+    background-image: url(img/mount.png);
+    padding-top: 50px;
+}
+
+.middle-container1{
+    background-color:#50433b ;
+}
+
+.middle-container2{
+    background-color:#e17170;
+}
+
+.bottom-container {
+    background-color:#ffe5d2;
+}
+
+.footer-container {
+    text-align: left;
+}
+
+/* ------------------------------------------------------Tables----------------------------------------------------------------- */
+.contactMe-table {
+    border-radius: 10px;
+    border: double 5px;
+    border-color: black;
+    text-align: center;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+}
