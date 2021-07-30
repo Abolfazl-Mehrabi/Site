@@ -4,6 +4,7 @@ body {
 }
 
 h1{
+    text-shadow: 5px 5px 5px gray;
     font-family: 'Bangers', cursive;
     font-size: 80px;
     position: relative;
@@ -31,6 +32,7 @@ a {
 
 
 .titlep {
+    text-shadow: 5px 5px 5px gray;
     font-family: 'Bangers', cursive;
     font-size: 2.4rem;
     position: relative;
@@ -69,11 +71,11 @@ a {
 }
 
 .middle-container1{
-    background-color:#50433b ;
+    background-color:#707d8c ;
 }
 
 .middle-container2{
-    background-color:#e17170;
+    background-color:#b7cfd2;
 }
 
 .bottom-container {
